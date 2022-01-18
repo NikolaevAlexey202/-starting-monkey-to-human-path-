@@ -1,0 +1,12 @@
+using System;
+namespace Николаев_202
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(«I’m <Алексей> <Николаев>, and I’m not a monkey»);         
+            Console.ReadLine();
+        }
+    }
+}
